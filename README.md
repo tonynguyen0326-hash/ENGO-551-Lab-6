@@ -1,0 +1,1 @@
+In this project, line simplification is applied using Turf.js, a JavaScript function for geospatial analysis. Specifically, the Simplify function is used in the lab. There is a map on the front page, where the user can draw a polyline. After drawing the polyline, they can click a button to show a simplified version of the polyline in a different colour.
